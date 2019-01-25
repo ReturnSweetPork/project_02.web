@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+header
+{   
+    background-image:url(https://t1.daumcdn.net/cfile/tistory/22682F4E585743E303);
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family: 'Inconsolata', monospace;
+    background-size: 100%;
+
+}
+h2 
+{    
+    text-align: center;
+    color: white;
+}
+
+footer
+{
+    background-color: gray;
+    width: 100%;
+    height: 50px;
+    font-family: 'Nanum Pen Script', cursive;
+    padding-left: 3rem;
+    padding-right: 3rem;
+
+}
+
+
+p{
+    line-height: 70px;
+}
+
+.card
+{
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
